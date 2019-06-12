@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Süt Topla</string>
+    <string name="connection_str">Bağlantı Kuruluyor</string>
+    <string name="apprvbutton_str">Onayla</string>
+    <string name="saveid_str">Hatırla</string>
+    <string name="autolog_str">Otomatik giriş yap</string>
+    <string name="title_activity_missionselect">Missionselect</string>
+    <string name="choosemission_str">Görev Seç: </string>
+    <string name="configfilename_str">config.txt</string>
+</resources>
